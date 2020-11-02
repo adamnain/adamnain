@@ -16,7 +16,6 @@
 
 
 
-- 🔭 Playground at [Pragma Informatika](https://pragmainf.co.id).
 - 🌱 I’m currently learning Flutter.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a social media addict.

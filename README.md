@@ -35,9 +35,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamnain&show_icons=true&theme=dracula&line_height=27" alt="adamnain's github stats"/>
 </a>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
